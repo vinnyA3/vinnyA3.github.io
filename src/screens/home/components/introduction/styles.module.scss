@@ -1,0 +1,20 @@
+.container {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(193, 88, 88);
+}
+
+.content {
+  padding: 2.2em;
+  flex: 2;
+}
+
+.media {
+  padding: 2.2em;
+  text-align: center;
+  flex: 1;
+}
